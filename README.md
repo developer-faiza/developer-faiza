@@ -50,7 +50,7 @@
 ---
 
 ## 📫 Connect with Me
-- 🌐 Portfolio: [my-portfolio-f-memon.netlify.app](https://my-portfolio-f-memon.netlify.app/)  
+- 🌐 Portfolio: Comming soon!
 - 📧 Email: [memon2572006f@gmail.com](mailto:memon2572006f@gmail.com)  
 - 💻 GitHub: [F-Memon-Developer](https://github.com/F-Memon-Developer)  
 
