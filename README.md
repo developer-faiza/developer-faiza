@@ -1,4 +1,4 @@
-# Hi there 👋, I'm F Memon
+# Hi there 👋, I'm Faiza Memon
 
 🚀 A passionate **FullStack Web Developer**  
 💻 Love building modern, scalable, and responsive web applications  
