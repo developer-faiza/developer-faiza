@@ -44,16 +44,16 @@
 ---
 
 ## 📊 GitHub Stats
-![F-Memon-Developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Memon-Developer&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=F-Memon-Developer&theme=radical)  
+![developer-faiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-faiza&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developer-faiza&theme=radical)  
 
 ---
 
 ## 📫 Connect with Me
 - 🌐 Portfolio: https://f-memon-portfolio.netlify.app
-- 📧 Email: [memon2572006f@gmail.com](mailto:memon2572006f@gmail.com)  
-- 💻 GitHub: [F-Memon-Developer](https://github.com/F-Memon-Developer)  
+- 📧 Email: [developerfaizamemon@gmail.com](mailto:developerfaizamemon@gmail.com)  
+- 💻 GitHub: [developer-faiza](https://github.com/developer-faiza)  
 
 ---
 
-⭐️ From [F-Memon-Developer](https://github.com/F-Memon-Developer)
+⭐️ From [Developer-Faiza](https://github.com/developer-faiza)
